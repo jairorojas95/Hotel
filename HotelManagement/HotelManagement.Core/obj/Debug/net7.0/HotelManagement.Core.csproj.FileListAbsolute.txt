@@ -1,0 +1,11 @@
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Core\bin\Debug\net7.0\HotelManagement.Core.deps.json
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Core\bin\Debug\net7.0\HotelManagement.Core.dll
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Core\bin\Debug\net7.0\HotelManagement.Core.pdb
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Core\obj\Debug\net7.0\HotelManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Core\obj\Debug\net7.0\HotelManagement.Core.AssemblyInfoInputs.cache
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Core\obj\Debug\net7.0\HotelManagement.Core.AssemblyInfo.cs
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Core\obj\Debug\net7.0\HotelManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Core\obj\Debug\net7.0\HotelManagement.Core.dll
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Core\obj\Debug\net7.0\refint\HotelManagement.Core.dll
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Core\obj\Debug\net7.0\HotelManagement.Core.pdb
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Core\obj\Debug\net7.0\ref\HotelManagement.Core.dll

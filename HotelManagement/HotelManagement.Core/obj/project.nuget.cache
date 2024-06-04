@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vESYMaSM0/g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jairo.rojas\\HotelManagement\\HotelManagement.Core\\HotelManagement.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.19\\microsoft.windowsdesktop.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.19\\microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "C:\\Users\\TEMP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.19\\microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

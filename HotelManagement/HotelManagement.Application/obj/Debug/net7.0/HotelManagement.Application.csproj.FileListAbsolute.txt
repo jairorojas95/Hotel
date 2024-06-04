@@ -1,0 +1,17 @@
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\bin\Debug\net7.0\HotelManagement.Application.deps.json
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\bin\Debug\net7.0\HotelManagement.Application.dll
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\bin\Debug\net7.0\HotelManagement.Application.pdb
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\bin\Debug\net7.0\HotelManagement.Core.dll
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\bin\Debug\net7.0\HotelManagement.Infrastructure.dll
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\bin\Debug\net7.0\HotelManagement.Core.pdb
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\bin\Debug\net7.0\HotelManagement.Infrastructure.pdb
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\obj\Debug\net7.0\HotelManagement.Application.csproj.AssemblyReference.cache
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\obj\Debug\net7.0\HotelManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\obj\Debug\net7.0\HotelManagement.Application.AssemblyInfoInputs.cache
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\obj\Debug\net7.0\HotelManagement.Application.AssemblyInfo.cs
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\obj\Debug\net7.0\HotelManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\obj\Debug\net7.0\HotelMan.6B58BC18.Up2Date
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\obj\Debug\net7.0\HotelManagement.Application.dll
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\obj\Debug\net7.0\refint\HotelManagement.Application.dll
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\obj\Debug\net7.0\HotelManagement.Application.pdb
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Application\obj\Debug\net7.0\ref\HotelManagement.Application.dll

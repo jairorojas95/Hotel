@@ -1,0 +1,15 @@
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\bin\Debug\net7.0\HotelManagement.Infrastructure.deps.json
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\bin\Debug\net7.0\HotelManagement.Infrastructure.dll
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\bin\Debug\net7.0\HotelManagement.Infrastructure.pdb
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\bin\Debug\net7.0\HotelManagement.Core.dll
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\bin\Debug\net7.0\HotelManagement.Core.pdb
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\obj\Debug\net7.0\HotelManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\obj\Debug\net7.0\HotelManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\obj\Debug\net7.0\HotelManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\obj\Debug\net7.0\HotelManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\obj\Debug\net7.0\HotelManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\obj\Debug\net7.0\HotelMan.3E78A6F6.Up2Date
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\obj\Debug\net7.0\HotelManagement.Infrastructure.dll
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\obj\Debug\net7.0\refint\HotelManagement.Infrastructure.dll
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\obj\Debug\net7.0\HotelManagement.Infrastructure.pdb
+C:\Users\jairo.rojas\HotelManagement\HotelManagement.Infrastructure\obj\Debug\net7.0\ref\HotelManagement.Infrastructure.dll
